@@ -8,5 +8,6 @@ package com.yuepengfei;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello world");
+        System.out.println("草啊，实验了那么多");
     }
 }
